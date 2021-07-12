@@ -40,9 +40,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hao Tan is currently a PhD student with the School of Computing at the Univeristy of Leeds, UK. 
-  He received the B.Eng. degree in Computer Science and Engineering from Southern Univeristy of Science and Technology (SUSTech), China in 2020. 
-  His research interests are in the field of <mark> computer vision </mark>, <mark> automated machine learning</mark>, and in particular <mark> evolutionary neural architecture search</mark>.
+  I am currently a first-year Ph.D. student with the School of Computing at the Univeristy of Leeds, UK. 
+  It is also a joint Ph.D. program with the Dept. of Computer Science and Engineering at the Southern University of Science and Technology (SUSTech), China.
+  Before my Ph.D. journey, I received the B.Eng. degree in Computer Science and Engineering from SUSTech in 2020. 
+  My research interests are in the field of <mark> computer vision </mark>, <mark> automated machine learning</mark>, and in particular <mark> evolutionary neural architecture search</mark>.
   
 content:
   - title: Recent News
@@ -53,7 +54,7 @@ content:
   - title: Honours and Rewards 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 2019: [BIC-TA Best Paper Award](httP://emi.sustech.edu.cn/?p=5105)
+      - 2019: [BIC-TA Best Paper Award](http://emi.sustech.edu.cn/?p=5105)
   - title: Education
     layout: list
     content:
@@ -62,7 +63,8 @@ content:
         sub_title: Doctor of Philosophy
         caption: October 2021 - present
         description: | # this will include new lines to allow paragraphs
-          I do reasearch under the supervision of [Dr. Nabi Omidvar](https://www.nomidvar.com). 
+          I am currently a Ph.D. student at Univeristy of Leeds, under the supervision of [Dr. Nabi Omidvar](https://www.nomidvar.com) and co-supervision of [Prof. Ran Cheng](http://emi.sustech.edu.cn/?p=4665) at SUSTech. 
+          
       - layout: right
         title: SUSTech
         sub_title: B.Eng. in Computer Science and Technology
@@ -92,7 +94,7 @@ content:
       Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover. 
       Swarm and Evolutionary Computation (SWEVO), 2021.
       
-      ## Conferences:
+      ## Conferences
       - **Tao Tan**, Cheng He, Dexuan Tang, Ran Cheng. 
       Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover. 
       International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA), 2019.
