@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Hao Tan (谭浩)
-title: Ph.D Student
+title: PhD Student
 email: tanbox@live.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,17 +20,17 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  tanhao1998
 # stackoverflow_username: "00000001"
-dribbble_username: jekyll
+#dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
+linkedin_username: tanbox@live.com
+#xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
-googleplus_username: +jekyll
+#googleplus_username: +jekyll
 orcid_username: 0000-0002-9489-6543
 
 # Additional icon links
