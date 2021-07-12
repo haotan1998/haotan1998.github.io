@@ -52,28 +52,20 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Hao Tan and I am currently a PhD student in the Univeristy of Leeds.
+  Hao Tan is currently a PhD student with the School of Computing at the Univeristy of Leeds, UK. 
+  He received the B.Eng. degree in Electrical and Computer Engineering from Southern Univeristy of Science and Technology (SUSTech), China in 2020. 
+  His research interests are in the field of  <mark> computer vision, automated machine learning, and in particular evolutionary neural architecture search. </mark>
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
 content:
   - title: Recent News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      - Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-      - test 
+      - **07/21**: Our paper titled "RelativeNAS" is accepted to IEEE T-NNLS!
+      - **05/21**: Our paper titled "EENAS" is accepted to SWEVO!
   - title: Honours and Rewards 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Best Paper Award
+      - 2019: [emi.sustech.edu.cn/?p=5105](BIC-TA Best Paper Award)
   - title: Education
     layout: list
     content:
