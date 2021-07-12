@@ -12,25 +12,13 @@ email: tanbox@live.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-# website: Download full CV (eg. https://google.com)(optional)
-# website_title:
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: jekyllrb
 github_username:  tanhao1998
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
 linkedin_username: tanhao1998
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
 orcid_username: 0000-0002-9489-6543
 
 # Additional icon links
@@ -65,7 +53,7 @@ content:
   - title: Honours and Rewards 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 2019: [BIC-TA Best Paper Award](emi.sustech.edu.cn/?p=5105)
+      - 2019: [BIC-TA Best Paper Award](httP://emi.sustech.edu.cn/?p=5105)
   - title: Education
     layout: list
     content:
@@ -97,13 +85,13 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Journals:
+      # Journals:
       
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
       
-      Conferences:
+      # Conferences:
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
