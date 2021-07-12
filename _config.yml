@@ -96,7 +96,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top
+      - layout: left
         title: University of Leeds
         sub_title: Doctor of Philosophy
         caption: October 2021 - present
@@ -104,7 +104,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
           I have been using this project as a way to increase many of my skills and also learn new things. I have particually enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-      - layout: top-middle
+      - layout: top
         title: Southern University of Science and Technology
         sub_title: B.Eng. in Computer Science and Technology
         caption: September 2016 - July 2020
