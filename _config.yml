@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/favicon.ico)
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -53,8 +53,8 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hao Tan is currently a PhD student with the School of Computing at the Univeristy of Leeds, UK. 
-  He received the B.Eng. degree in Electrical and Computer Engineering from Southern Univeristy of Science and Technology (SUSTech), China in 2020. 
-  His research interests are in the field of <mark> computer vision </mark>, <mark> automated machine learning</mark>, and in particular <mark> evolutionary neural architecture search</mark>.
+  He received the B.Eng. degree in Computer Science and Engineering from Southern Univeristy of Science and Technology (SUSTech), China in 2020. 
+  His research interests are in the field of <mark> computer vision </mark> <mark> automated machine learning</mark> and in particular <mark> evolutionary neural architecture search</mark>
   
 content:
   - title: Recent News
