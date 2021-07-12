@@ -48,8 +48,8 @@ content:
   - title: Recent News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **07/21**: Our paper titled "RelativeNAS" is accepted to IEEE T-NNLS!
-      - **05/21**: Our paper titled "EENAS" is accepted to SWEVO!
+      - **07/21**: Our paper titled "RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning" is accepted to IEEE T-NNLS!
+      - **05/21**: Our paper titled "Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover" is accepted to SWEVO!
   - title: Honours and Rewards 
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -62,13 +62,11 @@ content:
         sub_title: Doctor of Philosophy
         caption: October 2021 - present
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-          I have been using this project as a way to increase many of my skills and also learn new things. I have particually enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-      - layout: left
+          I do reasearch under the supervision of [Dr. Nabi Omidvar](https://www.nomidvar.com). 
+      - layout: right
         title: SUSTech
         sub_title: B.Eng. in Computer Science and Technology
         caption: September 2016 - July 2020
-        quote: >
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: Experience
@@ -81,7 +79,8 @@ content:
         link: http://emi.sustech.edu.cn
         link_text: EMI Group
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I did the academic research for neural architecture search.
+          At the same time, I was the **key member** and responsible for developing neural architecture search algorithms under two research giants.
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -90,8 +89,8 @@ content:
       RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning. 
       IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021.
       - Cheng He, **Hao Tan**, Shihua Huang, Ran Cheng. 
-      Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover. S
-      warm and Evolutionary Computation (SWEVO), 2021.
+      Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover. 
+      Swarm and Evolutionary Computation (SWEVO), 2021.
       
       ## Conferences:
       - **Tao Tan**, Cheng He, Dexuan Tang, Ran Cheng. 
