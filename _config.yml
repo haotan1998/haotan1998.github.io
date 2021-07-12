@@ -12,8 +12,8 @@ email: tanbox@live.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Download full CV (eg. https://google.com)(optional)
-website_title:
+# website: Download full CV (eg. https://google.com)(optional)
+# website_title:
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -38,9 +38,9 @@ additional_links:
 - title: Google Scholar
   icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=Dad3F3AAAAAJ&hl=en
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+ - title: Download Resume
+   icon: fas fa-download
+   url: pdf/Resume.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
