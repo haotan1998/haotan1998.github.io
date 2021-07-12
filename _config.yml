@@ -22,15 +22,15 @@ darkmode: false
 # twitter_username: jekyllrb
 github_username:  tanhao1998
 # stackoverflow_username: "00000001"
-#dribbble_username: jekyll
+# dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
 linkedin_username: tanhao1998
-#xing_username: jekyll
+# xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
-#googleplus_username: +jekyll
+# googleplus_username: +jekyll
 orcid_username: 0000-0002-9489-6543
 
 # Additional icon links
@@ -97,11 +97,17 @@ content:
     layout: list
     content:
       - layout: left
-        title: Institution name
+        title: University of Leeds
         sub_title: Doctor of Philosophy
         caption: October 2021 - present
         quote: >
-          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: left
+        title: Southern University of Science and Technology
+        sub_title: B.Eng. in Computer Science and Technology
+        caption: September 2016 - July 2020
+        quote: >
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
