@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico)
 
 # Content configuration version
 version: 2
@@ -54,7 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hao Tan is currently a PhD student with the School of Computing at the Univeristy of Leeds, UK. 
   He received the B.Eng. degree in Electrical and Computer Engineering from Southern Univeristy of Science and Technology (SUSTech), China in 2020. 
-  His research interests are in the field of  <mark> computer vision, automated machine learning, and in particular evolutionary neural architecture search. </mark>
+  His research interests are in the field of <mark> computer vision </mark>, <mark> automated machine learning</mark>, and in particular <mark> evolutionary neural architecture search</mark>.
   
 content:
   - title: Recent News
@@ -65,7 +65,7 @@ content:
   - title: Honours and Rewards 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 2019: [emi.sustech.edu.cn/?p=5105](BIC-TA Best Paper Award)
+      - 2019: [BIC-TA Best Paper Award](emi.sustech.edu.cn/?p=5105)
   - title: Education
     layout: list
     content:
@@ -98,6 +98,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Journals:
+      
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
