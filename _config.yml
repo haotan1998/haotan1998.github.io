@@ -38,9 +38,9 @@ additional_links:
 - title: Google Scholar
   icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=Dad3F3AAAAAJ&hl=en
- - title: Download Resume
-   icon: fas fa-download
-   url: https://scholar.google.com/citations?user=Dad3F3AAAAAJ&hl=en
+# - title: Download Resume
+#   icon: fas fa-download
+#   url: https://scholar.google.com/citations?user=Dad3F3AAAAAJ&hl=en
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
