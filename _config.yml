@@ -103,13 +103,15 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: A Little More About Me
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+      Journals:
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      
+      Conferences:
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
