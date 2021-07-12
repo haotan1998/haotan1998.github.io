@@ -26,7 +26,7 @@ github_username:  tanhao1998
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: tanbox@live.com
+linkedin_username: tanhao1998
 #xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -52,6 +52,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Hao Tan and I am currently a PhD student in the Univeristy of Leeds.
+  
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -94,10 +96,10 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        sub_title: Doctor of Philosophy
+        caption: October 2021 - present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -110,7 +112,7 @@ content:
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
