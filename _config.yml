@@ -12,8 +12,8 @@ email: tanbox@live.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: Download full CV (eg. https://google.com)(optional)
+website_title:
 
 # Dark Mode (true/false/never)
 darkmode: false
