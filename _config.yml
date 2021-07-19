@@ -50,8 +50,8 @@ content:
   - title: Recent News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **07/21**: Our paper titled "RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning" is accepted to IEEE T-NNLS!
-      - **05/21**: Our paper titled "Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover" is accepted to SWEVO!
+      - **07/21**: Our paper titled "[RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning](https://arxiv.org/pdf/2009.06193)" is accepted to [IEEE T-NNLS](https://ieeexplore.ieee.org/document/9488309)!
+      - **05/21**: Our paper titled "[Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover](https://www.sciencedirect.com/science/article/pii/S2210650221000559)" is accepted to [Elsevier SWEVO](https://www.journals.elsevier.com/swarm-and-evolutionary-computation)!
   - title: Honours and Rewards 
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -95,10 +95,10 @@ content:
       ## Journals
       - **Hao Tan**, Ran Cheng, Shihua Huang, Cheng He, Changxiao Qiu, Fan Yang, Ping Luo. 
       RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning. 
-      IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021.
+      IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. [paper/code]
       - Cheng He, **Hao Tan**, Shihua Huang, Ran Cheng. 
       Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover. 
-      Swarm and Evolutionary Computation (SWEVO), 2021.
+      Swarm and Evolutionary Computation (SWEVO), 2021. [paper]
       
       ## Conferences
       - **Tao Tan**, Cheng He, Dexuan Tang, Ran Cheng. 
