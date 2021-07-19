@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
   It is also a joint Ph.D. program with the Dept. of Computer Science and Engineering at Southern University of Science and Technology (SUSTech), China.
   Before my Ph.D. journey, I received the B.Eng. degree in Computer Science and Engineering from SUSTech in 2020. 
   
-  My research interests are in the field of <mark> computer vision </mark>, <mark> automated machine learning</mark>, and in particular <mark> evolutionary neural architecture search</mark>.
+  My research interests are in the field of <mark>computer vision</mark>, <mark>automated machine learning</mark>, and in particular <mark>evolutionary neural architecture search</mark>.
   
 content:
   - title: Recent News
@@ -64,7 +64,7 @@ content:
         sub_title: Doctor of Philosophy
         caption: October 2021 - present
         description: | # this will include new lines to allow paragraphs
-          I am currently a Ph.D. student at Univeristy of Leeds, under the supervision of [Dr. Nabi Omidvar](https://www.nomidvar.com) and co-supervision of [Prof. Ran Cheng](http://emi.sustech.edu.cn/?p=4665) at SUSTech. 
+          I am currently a Ph.D. student at Univeristy of Leeds, under the supervision of [Dr. Nabi Omidvar](https://www.nomidvar.com) and co-supervision at SUSTech.
           Faced by the most advanced networks won by quatity and scale, I try to find the inherit information under the network to save the energy.
           In general, I want to use information theory and feature visualization technology to illustrate the characteristic of neural networks.
           What is more, my goal is to desgin a general nerual network which can process multi-modal information, such as texts and images, at the same time.
@@ -82,9 +82,9 @@ content:
       - layout: left
         title: SUSTech
         sub_title: Research Assistant
-        caption: July 2020 - August 2021
-        link: http://emi.sustech.edu.cn
-        link_text: EMI Group
+        caption: July 2020 - July 2021
+        link: http://cse.sustech.edu.cn/en/
+        link_text: Dept. of Computer Science and Engineering
         description: | # this will include new lines to allow paragraphs
           After my graduation, I continued to do the academic research for neural architecture search as a Research Assitant at SUSTech.
           During this one year, I submitted my papers into journals and handled the responses.
