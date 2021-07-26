@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Hao Tan (谭浩)
-title: PhD Student
+title: PhD Candidate Student
 email: tanbox@live.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
   It is also a joint Ph.D. program with the Dept. of Computer Science and Engineering at Southern University of Science and Technology (SUSTech), China.
   I received the B.Eng. degree in Computer Science and Engineering from SUSTech in 2020. 
   
-  My research interests are in the field of <mark>computer vision</mark>, <mark>automated machine learning</mark>, and in particular <mark>evolutionary neural architecture search</mark>.
+  My current research interests are in the field of <mark>image classification</mark>, <mark>automated machine learning</mark>, and in particular <mark>evolutionary neural architecture search</mark>.
   
 content:
   - title: Recent News
