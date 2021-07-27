@@ -65,8 +65,8 @@ content:
         caption: October 2021 - future
         description: | # this will include new lines to allow paragraphs
           I will be a Ph.D. student at the University of Leeds, under the supervision of [Dr. Nabi Omidvar](https://www.nomidvar.com) and co-supervision at SUSTech.
-          The vision of my research may contain three parts: how to analyze the network, how to design the network, and how to deploy the network.  
-          Firstly, I will use Information Theory and Feature Visualization to interpret the behaviour of the network or find the boundary of it. 
+          The vision of my research may contain three parts: <mark>how to analyze the neural network</mark>, <mark>how to design the neural network</mark>, and <mark>how to deploy the neural network</mark>.
+          Firstly, I will use <mark>Information Theory</mark> and <mark>Feature Visualization</mark> to interpret the behaviour of the network or find the boundary of it.
           Secondly, the knowledge we discover can be used as a prior to design the network.
           Thirdly, we will extend the designed network into a search space and use Neural Architecture Search to further improve its performance, or for deployment purposes when considering multiple objectives.
           What is more, my long-term goal is to design a general neural network that can process multi-modal information, such as texts and images, at the same time.
