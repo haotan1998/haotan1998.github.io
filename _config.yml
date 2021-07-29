@@ -97,7 +97,7 @@ content:
       ## Journals
       - **Hao Tan**, Ran Cheng, Shihua Huang, Cheng He, Changxiao Qiu, Fan Yang, Ping Luo. 
       RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning. 
-      *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021. [ [paper](https://arxiv.org/abs/2009.06193) / [code](https://github.com/EMI-Group/RelativeNAS) / [bibtex](tanhao1998.github.io/bibtex/tnnls21-relative.txt)]
+      *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021. [ [paper](https://arxiv.org/abs/2009.06193) / [code](https://github.com/EMI-Group/RelativeNAS) / [bibtex](tanhao1998.github.io/bibtex/tnnls21-relative.bib)]
       - Cheng He, **Hao Tan**, Shihua Huang, Ran Cheng. 
       Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover. 
       *Swarm and Evolutionary Computation (SWEVO)*, 2021. [ [paper](https://www.sciencedirect.com/science/article/pii/S2210650221000559) ]
