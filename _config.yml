@@ -65,8 +65,8 @@ content:
         caption: October 2021 - future
         description: | # this will include new lines to allow paragraphs
           I will be a Ph.D. student at the University of Leeds, under the supervision of [Dr. Nabi Omidvar](https://www.nomidvar.com) and co-supervision at SUSTech.
-          The vision of my research may contain three parts: <mark>how to analyze the neural network</mark>, <mark>how to design the neural network</mark>, and <mark>how to deploy the neural network</mark>.
-          Firstly, I will use <mark>Information Theory</mark> and <mark>Feature Visualization</mark> to interpret the behaviour of the neural network or find the boundary of it.
+          The vision of my research may contain three parts: **how to analyze the neural network**, **how to design the neural network**, and **how to deploy the neural network**.
+          Firstly, I will use **Information Theory** and **eature Visualization** to interpret the behaviour of the neural network or find the boundary of it.
           Secondly, the knowledge we discover can be used as a prior to design the neural network.
           Thirdly, we will extend the designed neural network into a search space and use <mark>Neural Architecture Search</mark> to further improve its performance, or for deployment purposes when considering multiple objectives.
           What is more, my long-term goal is to design a general neural network that can process multi-modal information, such as texts and images, at the same time.
@@ -97,7 +97,7 @@ content:
       ## Journals
       - **Hao Tan**, Ran Cheng, Shihua Huang, Cheng He, Changxiao Qiu, Fan Yang, Ping Luo. 
       RelativeNAS: Relative Neural Architecture Search via Slow-Fast Learning. 
-      *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021. [ [paper](https://arxiv.org/abs/2009.06193) / [code](https://github.com/EMI-Group/RelativeNAS) ]
+      *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021. [ [paper](https://arxiv.org/abs/2009.06193) / [code](https://github.com/EMI-Group/RelativeNAS) / [bibtex](tanhao1998.github.io/bibtex/tnnls21-relative.txt)]
       - Cheng He, **Hao Tan**, Shihua Huang, Ran Cheng. 
       Efficient Evolutionary Neural Architecture Search by Modular Inheritable Crossover. 
       *Swarm and Evolutionary Computation (SWEVO)*, 2021. [ [paper](https://www.sciencedirect.com/science/article/pii/S2210650221000559) ]
