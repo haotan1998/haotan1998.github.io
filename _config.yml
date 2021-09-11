@@ -55,7 +55,7 @@ content:
   - title: Honours and Rewards 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 2019: [BIC-TA Best Paper Award](http://emi.sustech.edu.cn/?p=5105)
+      - 2019: [BIC-TA Best Paper Award](https://www.emigroup.tech/index.php/news/undergraduate-student-tan-hao-and-others-won-the-bic-ta-2019-best-paper-award/)
   - title: Education
     layout: list
     content:
