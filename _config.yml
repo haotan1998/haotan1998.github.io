@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Hao Tan (谭浩)
-title: Provisional PhD Candidate
+title: PhD Candidate
 email: tanbox@live.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -28,7 +28,7 @@ additional_links:
   url: https://scholar.google.com/citations?user=Dad3F3AAAAAJ&hl=en
 - title: Download Resume
   icon: fas fa-download
-  url: tanhao1998.github.io/pdf/Resume.pdf
+  url: haotan1998.github.io/pdf/Resume.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -40,7 +40,7 @@ gtag: "G-VSKWWKRQT4"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a first-year Ph.D. student with the School of Computing at the University of Leeds, UK, in 2021. 
+  Currently, I am a second-year Ph.D. student with the School of Computing at the University of Leeds, UK. 
   It is also a joint Ph.D. program with the Dept. of Computer Science and Engineering at Southern University of Science and Technology (SUSTech), China.
   I received the B.Eng. degree in Computer Science and Engineering from SUSTech in 2020. 
   
