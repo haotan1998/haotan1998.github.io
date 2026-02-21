@@ -1,7 +1,21 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,500,500italic,400italic,300italic,100italic,700italic);
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap);
 @import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
 @import url(https://use.fontawesome.com/releases/v5.11.2/css/all.css);
 @import url(https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css);
+
+:root {
+  --color-primary: #2563eb;
+  --color-accent: #4f46e5;
+  --color-bg: #f1f5f9;
+  --color-card: #ffffff;
+  --color-text: #1e293b;
+  --color-text-muted: #64748b;
+  --color-border: #e2e8f0;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+  --radius: 12px;
+  --radius-sm: 8px;
+}
 
 button, input[type="button"], input[type="reset"], input[type="submit"] {
   appearance: none;
@@ -147,8 +161,8 @@ html {
     top: 0px; }
 
 body {
-  background: #ffffff;
-  font-family: Roboto, sans-serif;
+  background: var(--color-bg, #f1f5f9);
+  font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased; }
 
 .center-text {
